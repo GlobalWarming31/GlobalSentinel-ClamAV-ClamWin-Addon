@@ -28,7 +28,7 @@ To ensure Global Sentinel functions properly, verify your application paths matc
 
 ## 🛠️ Installation & Setup
 
-1. **Prerequisites:** Ensure you have both [ClamWin](http://clamwin.com) and [ClamAV](https://clamav.net) installed on your Windows system.
+1. **Prerequisites:** Ensure you have both [ClamWin](https://clamwin.com/) and [ClamAV](https://www.clamav.net/) installed on your Windows system.
 2. **Download:** Download the latest release from the [Releases](../../releases) tab.
 3. **Launch:** Run the executable, configure your paths, check "Enable Real-Time Protection", and click **Save & Apply Settings**.
 
