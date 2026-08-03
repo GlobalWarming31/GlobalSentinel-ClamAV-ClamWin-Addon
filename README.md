@@ -37,6 +37,10 @@ To ensure Global Sentinel functions properly, verify your application paths matc
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
+### Integrity Verification 
+Verify the downloaded file using the following SHA-256 checksum: 
+`3F0614C0F4BF5F1C4466FA7B1FE594FA0370FA43C0D1D971D33A4A85CEB6BD92`
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
