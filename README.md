@@ -40,7 +40,7 @@ Verify the downloaded file using the following SHA-256 checksum:
 1a7d2c05f0a8365d345739f6a482beee1776d51cdf2b3f4d7b27daba63be6a2b
 ```
 
-## 🎮 Join the TriCityMC discord for more games and tons of other projects like out Aol Instant Messenger Server 🎮
+## 🎮 Join the TriCityMC discord for more games and tons of other projects like our Aol Instant Messenger Server 🎮
 ## 🌍 https://discord.tricitymc.online 🌍
 
 ## 🤝 Contributing
