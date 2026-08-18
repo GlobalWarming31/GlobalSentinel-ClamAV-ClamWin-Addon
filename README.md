@@ -37,8 +37,11 @@ To ensure Global Sentinel functions properly, verify your application paths matc
 Verify the downloaded file using the following SHA-256 checksum:
 
 ```text
-3F0614C0F4BF5F1C4466FA7B1FE594FA0370FA43C0D1D971D33A4A85CEB6BD92
+1a7d2c05f0a8365d345739f6a482beee1776d51cdf2b3f4d7b27daba63be6a2b
 ```
+
+## 🎮 Join the TriCityMC discord for more games and tons of other projects like our Aol Instant Messenger Server 🎮
+## 🌍 https://discord.tricitymc.online 🌍
 
 ## 🤝 Contributing
 
