@@ -17,6 +17,8 @@ It monitors connected system drives, logs scan activities instantly, and feature
 * **Live Activity Log:** Real-time feedback showing instant scanning results and clean file verifications.
 * **Automation:** Optional "Start on Windows Bootup" toggle to ensure you are always protected.
 
+<img width="700" height="783" alt="image" src="https://github.com/user-attachments/assets/a470b161-4b72-44b7-956d-ca797e55d739" />
+
 ## ⚙️ Configuration & Paths
 
 To ensure Global Sentinel functions properly, verify your application paths match your system installation. Typical defaults:
